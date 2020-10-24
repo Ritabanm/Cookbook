@@ -1,8 +1,10 @@
-# cookbook
+# Cookbook
 
 CookBook is a recipe app for iOS & Android.
 
 
-## Goal:
-To create an app where users can refer to for cuisines and recipes.
-
+# Version Details
+ ### Current Version: 1
+ ### Features :
+  -View Popular Dishes Worldwide
+  -View Popular Cuisines & dishes in each cuisine.
